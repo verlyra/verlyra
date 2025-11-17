@@ -38,18 +38,12 @@ A fast learner, adaptable, and always excited to collaborate and grow together �
 
 ---
 
-### 📊 GitHub Stats
+### 🍓 Most-used languages
 <div align="center">
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=verlyra&layout=compact&theme=tokyonight&hide_border=true)
 
 </div>
-
----
-
-### 🎓 Education
-**Universitas Budi Luhur — Computer Science (Cyber Security)**  
-📌 GPA: **3.94 / 4.00**
 
 ---
 
