@@ -1,4 +1,4 @@
-<h2 align="center">૮ ˶ᵔ ᵕ ᵔ˶ ა Hiyaa, I'm Verly 🍓🌸</h2>
+<h2 align="center">૮ ˶ᵔ ᵕ ᵔ˶ ა Hiyaa, I'm Verly 🌻🌸</h2>
 
 <p align="center">🌸 Computer Science Student • 🔐 Cybersecurity Enthusiast • 💻 Web Developer • 🎨 Digital Creative</p>
 
