@@ -5,7 +5,7 @@
 ---
 
 ### 🧁 About Me
-I’m a **Computer Science student** passionate about **technology, cybersecurity, and digital creativity**.  
+I’m a Computer Science student passionate about technology, cybersecurity, and digital creativity.  
 I love solving problems, learning new things, and building meaningful projects that make an impact ✨  
 A fast learner, adaptable, and always excited to collaborate and grow together 🌱
 
