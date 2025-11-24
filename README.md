@@ -38,10 +38,28 @@ A fast learner, adaptable, and always excited to collaborate and grow together �
 
 ---
 
+### 📊 GitHub Stats
+<div align="center">
+
+<a href="#"><img src="https://streak-stats.demolab.com?user=verlyra&theme=tokyonight&hide_border=true" width="48%"/></a>
+
+</div>
+
+---
+
 ### 🍓 Most-used languages
 <div align="center">
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=verlyra&layout=compact&theme=tokyonight&hide_border=true)
+
+</div>
+
+---
+
+### 📈 Activity Graph
+<div align="center">
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=verlyra&theme=tokyo-night&hide_border=true&area=true)
 
 </div>
 
@@ -54,4 +72,3 @@ A fast learner, adaptable, and always excited to collaborate and grow together �
 ---
 
 <p align="center"><i>$ ./build_me.sh — compiling confidence & passion 💻✨</i></p>
-
