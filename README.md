@@ -41,7 +41,7 @@ A fast learner, adaptable, and always excited to collaborate and grow together ð
 ### ðŸ“Š GitHub Stats
 <div align="center">
 
-<a href="#"><img src="https://streak-stats.demolab.com?user=verlyra&theme=tokyonight&hide_border=true" width="48%"/></a>
+<a href="#"><img src="https://github-readme-streak-stats-eight.vercel.app?user=verlyra&theme=tokyonight&hide_border=true" width="48%"/></a>
 
 </div>
 
